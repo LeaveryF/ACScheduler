@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.debugpy",
+        "donjayamanne.python-environment-manager",
+        "donjayamanne.python-extension-pack",
+        "KevinRose.vsc-python-indent",
+        "njqdev.vscode-python-typehint",
+        "ms-python.flake8",
+        "hbenl.vscode-test-explorer",
+        "ms-vscode.test-adapter-converter"
+    ]
+}

@@ -1,0 +1,8 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:LeaveryF/ACScheduler-frontend.git
+	branch = main
+[submodule "backend"]
+	path = backend
+	url = git@github.com:LeaveryF/ACScheduler-backend.git
+	branch = main
